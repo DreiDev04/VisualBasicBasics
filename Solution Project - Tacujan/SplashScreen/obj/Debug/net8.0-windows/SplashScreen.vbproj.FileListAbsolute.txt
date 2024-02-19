@@ -1,0 +1,17 @@
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\bin\Debug\net8.0-windows\SplashScreen.exe
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\bin\Debug\net8.0-windows\SplashScreen.deps.json
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\bin\Debug\net8.0-windows\SplashScreen.runtimeconfig.json
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\bin\Debug\net8.0-windows\SplashScreen.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\bin\Debug\net8.0-windows\SplashScreen.pdb
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.AssemblyInfoInputs.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.AssemblyInfo.vb
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.vbproj.CoreCompileInputs.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\refint\SplashScreen.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.pdb
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.genruntimeconfig.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\ref\SplashScreen.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.Main_Forms.resources
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.Resources.resources
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\SplashScreen\obj\Debug\net8.0-windows\SplashScreen.vbproj.GenerateResource.cache

@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\SplashScreen\\Arnom's Fried Food\\Arnom's Fried Food.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\SplashScreen\\Arnom's Fried Food\\Arnom's Fried Food.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\SplashScreen\\Arnom's Fried Food\\Arnom's Fried Food.vbproj",
+        "projectName": "Arnom's Fried Food",
+        "projectPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\SplashScreen\\Arnom's Fried Food\\Arnom's Fried Food.vbproj",
+        "packagesPath": "C:\\Users\\tacuj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\SplashScreen\\Arnom's Fried Food\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tacuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

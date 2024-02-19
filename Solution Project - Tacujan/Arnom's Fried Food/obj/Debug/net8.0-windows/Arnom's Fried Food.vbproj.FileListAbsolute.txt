@@ -1,0 +1,17 @@
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\bin\Debug\net8.0-windows\Arnom's Fried Food.exe
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\bin\Debug\net8.0-windows\Arnom's Fried Food.deps.json
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\bin\Debug\net8.0-windows\Arnom's Fried Food.runtimeconfig.json
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\bin\Debug\net8.0-windows\Arnom's Fried Food.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\bin\Debug\net8.0-windows\Arnom's Fried Food.pdb
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom_s_Fried_Food.Arnoms_Forms.resources
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.vbproj.GenerateResource.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.AssemblyInfoInputs.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.AssemblyInfo.vb
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.vbproj.CoreCompileInputs.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\refint\Arnom's Fried Food.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.pdb
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.genruntimeconfig.cache
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\ref\Arnom's Fried Food.dll
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom_s_Fried_Food.Resources.resources

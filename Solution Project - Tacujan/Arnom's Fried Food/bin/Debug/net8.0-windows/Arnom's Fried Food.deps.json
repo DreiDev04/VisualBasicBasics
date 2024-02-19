@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arnom's Fried Food/1.0.0": {
+        "runtime": {
+          "Arnom's Fried Food.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arnom's Fried Food/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
