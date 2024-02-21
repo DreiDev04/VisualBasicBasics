@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4650E8E-B16E-4605-A806-B6B164CADE03}|Arnom\u0027s Fried Food\\Arnom\u0027s Fried Food.vbproj|c:\\users\\tacuj\\documents\\programming\\visual basics\\solution project - tacujan\\arnom\u0027s fried food\\arnoms_forms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{B4650E8E-B16E-4605-A806-B6B164CADE03}|Arnom\u0027s Fried Food\\Arnom\u0027s Fried Food.vbproj|solutionrelative:arnom\u0027s fried food\\arnoms_forms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4650E8E-B16E-4605-A806-B6B164CADE03}|Arnom\u0027s Fried Food\\Arnom\u0027s Fried Food.vbproj|c:\\users\\tacuj\\documents\\programming\\visual basics\\solution project - tacujan\\arnom\u0027s fried food\\arnoms_forms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B4650E8E-B16E-4605-A806-B6B164CADE03}|Arnom\u0027s Fried Food\\Arnom\u0027s Fried Food.vbproj|solutionrelative:arnom\u0027s fried food\\arnoms_forms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4650E8E-B16E-4605-A806-B6B164CADE03}|Arnom\u0027s Fried Food\\Arnom\u0027s Fried Food.vbproj|c:\\users\\tacuj\\documents\\programming\\visual basics\\solution project - tacujan\\arnom\u0027s fried food\\arnoms_forms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B4650E8E-B16E-4605-A806-B6B164CADE03}|Arnom\u0027s Fried Food\\Arnom\u0027s Fried Food.vbproj|solutionrelative:arnom\u0027s fried food\\arnoms_forms.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Arnoms_Forms.vb",
-              "DocumentMoniker": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
-              "RelativeDocumentMoniker": "Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
-              "ToolTip": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
-              "RelativeToolTip": "Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-19T15:16:20.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Arnoms_Forms.vb [Design]",
               "DocumentMoniker": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
               "RelativeDocumentMoniker": "Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
               "ToolTip": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom\u0027s Fried Food\\Arnoms_Forms.vb [Design]",
               "RelativeToolTip": "Arnom\u0027s Fried Food\\Arnoms_Forms.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-19T14:26:34.273Z",
+              "WhenOpened": "2024-02-21T01:52:48.716Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arnoms_Forms.vb",
+              "DocumentMoniker": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
+              "RelativeDocumentMoniker": "Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
+              "ToolTip": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
+              "RelativeToolTip": "Arnom\u0027s Fried Food\\Arnoms_Forms.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T15:16:20.135Z",
+              "EditorCaption": ""
             }
           ]
         },

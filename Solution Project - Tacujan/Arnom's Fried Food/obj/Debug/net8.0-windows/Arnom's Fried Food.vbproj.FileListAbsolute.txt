@@ -15,3 +15,4 @@ C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Ar
 C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.genruntimeconfig.cache
 C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\ref\Arnom's Fried Food.dll
 C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom_s_Fried_Food.Resources.resources
+C:\Users\tacuj\Documents\Programming\Visual Basics\Solution Project - Tacujan\Arnom's Fried Food\obj\Debug\net8.0-windows\Arnom's Fried Food.sourcelink.json

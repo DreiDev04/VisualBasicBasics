@@ -5,8 +5,8 @@
     Dim TurkeyStatus = 0
     'Define Price
     Dim ChickenPrice = 11
-    Dim DuckPrice = 15
-    Dim TurkeyPrice = 55
+    Dim DuckPrice = 22
+    Dim TurkeyPrice = 33
 
     Private Sub Arnoms_Forms_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'Define Handlers for Textbox to accept only numbers
