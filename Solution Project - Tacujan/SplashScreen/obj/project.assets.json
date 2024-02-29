@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\SplashScreen\\SplashScreen.vbproj",
+      "projectUniqueName": "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\SplashScreen\\SplashScreen.vbproj",
       "projectName": "SplashScreen",
-      "projectPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\SplashScreen\\SplashScreen.vbproj",
+      "projectPath": "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\SplashScreen\\SplashScreen.vbproj",
       "packagesPath": "C:\\Users\\tacuj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\SplashScreen\\obj\\",
+      "outputPath": "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\SplashScreen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tacuj\\AppData\\Roaming\\NuGet\\NuGet.Config",

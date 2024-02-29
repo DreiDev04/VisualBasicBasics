@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Arnom's Fried Food"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baf71f6fb1c6fb069cb5218560950cfeb96ba7f3"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86970e049db1e61ef3cb14b1265cd46c47a3302"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Arnom's Fried Food"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Arnom's Fried Food"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

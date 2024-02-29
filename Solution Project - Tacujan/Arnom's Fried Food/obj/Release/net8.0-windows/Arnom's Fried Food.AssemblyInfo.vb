@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("SplashScreen"),  _
- Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("Arnom's Fried Food"),  _
+ Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86970e049db1e61ef3cb14b1265cd46c47a3302"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("SplashScreen"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("SplashScreen"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("Arnom's Fried Food"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("Arnom's Fried Food"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

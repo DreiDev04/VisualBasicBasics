@@ -1,6 +1,0 @@
-C:\Users\tacuj\Documents\Programming\Visual Basics\SplashScreen\Solution Project - Tacujan\obj\Debug\net8.0-windows\Solution_Project___Tacujan.Main_Forms.resources
-C:\Users\tacuj\Documents\Programming\Visual Basics\SplashScreen\Solution Project - Tacujan\obj\Debug\net8.0-windows\Solution Project - Tacujan.vbproj.GenerateResource.cache
-C:\Users\tacuj\Documents\Programming\Visual Basics\SplashScreen\Solution Project - Tacujan\obj\Debug\net8.0-windows\Solution Project - Tacujan.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tacuj\Documents\Programming\Visual Basics\SplashScreen\Solution Project - Tacujan\obj\Debug\net8.0-windows\Solution Project - Tacujan.AssemblyInfoInputs.cache
-C:\Users\tacuj\Documents\Programming\Visual Basics\SplashScreen\Solution Project - Tacujan\obj\Debug\net8.0-windows\Solution Project - Tacujan.AssemblyInfo.vb
-C:\Users\tacuj\Documents\Programming\Visual Basics\SplashScreen\Solution Project - Tacujan\obj\Debug\net8.0-windows\Solution Project - Tacujan.vbproj.CoreCompileInputs.cache

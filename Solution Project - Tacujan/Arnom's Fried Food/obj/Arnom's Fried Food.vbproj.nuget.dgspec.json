@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj": {}
+    "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj": {
+    "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj",
+        "projectUniqueName": "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj",
         "projectName": "Arnom's Fried Food",
-        "projectPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj",
+        "projectPath": "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\Arnom's Fried Food\\Arnom's Fried Food.vbproj",
         "packagesPath": "C:\\Users\\tacuj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tacuj\\Documents\\Programming\\Visual Basics\\Solution Project - Tacujan\\Arnom's Fried Food\\obj\\",
+        "outputPath": "C:\\Users\\tacuj\\Documents\\Programming\\vb sample\\VisualBasicBasics\\Solution Project - Tacujan\\Arnom's Fried Food\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tacuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
